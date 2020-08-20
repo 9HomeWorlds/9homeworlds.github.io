@@ -31,6 +31,8 @@ html{box-sizing:border-box;font-size:100%}*,:after,:before{box-sizing:inherit}bo
     width: calc(100% - 4px);
     height: calc(100% - 4px);
     border: 2px solid #FFFFFF
+}h1{
+	font-size: 12px;
 }h2{
     font-size: 13px;
     text-transform: uppercase;
